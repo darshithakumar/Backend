@@ -1,6 +1,6 @@
 PORT=3001
 JWT_SECRET=some-super-secret-key
-DB_HOST=localhost
-DB_USER=root
+DB_HOST=
+DB_USER=
 DB_PASSWORD=your_mysql_password
-DB_NAME=courseai
+DB_NAME=
